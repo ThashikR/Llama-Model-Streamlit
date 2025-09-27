@@ -1,7 +1,7 @@
 # Llama-Model-Streamlit
 
-# This Program With download a Llama Model and work on it.
-# Here Llama 3.1 is being used (Even Phi3 and Llama3 are Commented)
+This Program With download a Llama Model and work on it.
+## Here Llama 3.1 is being used (Even Phi3 and Llama3 are Commented)
 
 
 Steps to be followed:
