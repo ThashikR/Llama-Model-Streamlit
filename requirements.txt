@@ -1,0 +1,6 @@
+pip install ollama
+pip pull llama3.1 # it will take some time to load the data
+#ollama run llama3.1 # Now you can run and check the if the llama model is being called, if you see the answer for you questions, it ready to be called for integration:)
+pip install llama_index # if any issues occurs upgrade it by following cms: pip install --upgrade llama-index-llms-ollama
+pip install streamlit # for the web framework.
+#streamlit run llama_app.py 
